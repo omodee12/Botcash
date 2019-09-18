@@ -28,7 +28,14 @@ padding: 12px 14px;
 
 }
 #big{
-    font-size: 2ch;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font: bolder;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+}
+.img-size{
+    width: fit-content;
+    height: fit-content;
+}
+ul{
+    list-style-type: none;
 }
